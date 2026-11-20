@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local project state, kept on disk only
+PROJECT_STATE.md
+
+# Source proposal and reference PDFs
+*.pdf
+
+# Notebook and OS artifacts
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
